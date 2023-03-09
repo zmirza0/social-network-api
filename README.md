@@ -13,6 +13,7 @@
 
    ## Description
   This is a social network app where you can post thoughts and make frienfs.
+  Demonstration: https://drive.google.com/file/d/1nb7lHUfEvTj5vEg1Ypdar-CANek1yC3-/view
    ## Installation
    Run ```npm i```
    ## Usage
